@@ -1,4 +1,4 @@
-# AWS Frontend Infrastructure for Student Enrollment System
+# CloudStruct: Frontend A Scalable Approach with CloudFront, S3, AI Powered Rekognition
 
 This repository contains Terraform configurations for deploying a secure and scalable web infrastructure on AWS, designed to serve a Student Enrollment System built with React.
 
