@@ -57,8 +57,8 @@ The infrastructure consists of:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/CaringalML/AWS-React-Frontend-Infrastructure.git
-cd AWS-React-Frontend-Infrastructure
+git clone https://github.com/CaringalML/CloudStruct-Frontend-A-Scalable-Approach-with-CloudFront-S3-AI-Powered-Rekognition.git
+cd CloudStruct-Frontend-A-Scalable-Approach-with-CloudFront-S3-AI-Powered-Rekognition
 ```
 
 2. Initialize Terraform:
